@@ -12,4 +12,22 @@ here's a clip of when it did reach it's target(feels like magic...look at my bab
 
 https://github.com/user-attachments/assets/f8b89be4-75cb-4b2b-ab06-5cca39fb8830 <img width="1366" height="768" alt="screenshot" src="https://github.com/user-attachments/assets/d0ab93f8-3805-47db-ac5a-f2526b8518df" />
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+tuned my robot PPO policy by simply decreasing the learning rate to enable stability and increasing the batch size for better gradient estimates
+
+it's crazy how those slight tweaks made the UR5e arm learn better and faster
+
+just look at my baby go! could I make it reach faster? probably but atm i'm satisfied
+
+
+
+https://github.com/user-attachments/assets/b799451e-47e7-4489-8c09-a20861f94eb0
+<img width="1366" height="768" alt="Screenshot From 2025-10-23 09-55-10" src="https://github.com/user-attachments/assets/a1331330-60b3-4719-9fd5-031e6a3ff2e5" />
+<img width="1280" height="1024" alt="Screenshot From 2025-10-23 09-55-18" src="https://github.com/user-attachments/assets/980eecfd-2a9f-4539-828b-89785b3b6ab4" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
